@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning R and exploring Data science and analysis
+I am currently learning R and exploring Data science concepts.
 
 
 ## 🌐 Socials:
