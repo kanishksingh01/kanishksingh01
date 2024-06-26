@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning R and exploring Data science concepts.
+Tech Enthusiast and passionate coder. Always learning something new.
 
 
 ## 🌐 Socials:
