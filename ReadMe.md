@@ -31,7 +31,6 @@ Here are some of the tools and technologies I work with:
 
 | Repository | Highlights |
 |---|---|
-| [Devops](https://github.com/kanishksingh01/Devops) | CI/CD, IaC, Docker, Kubernetes |
 | [local‑clusters](https://github.com/kanishksingh01/local-clusters) | k3d lab, Octopus Deploy, WireGuard |
 | [Advanced‑Data‑Analytics‑using‑Python‑ML](https://github.com/kanishksingh01/Advanced-Data-Analytics-using-Python-ML) | Data analysis, machine learning |
 | [streamlit‑ml‑observability](https://github.com/kanishksingh01/streamlit-ml-observability) | ML observability, Streamlit app |
