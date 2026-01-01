@@ -12,7 +12,6 @@ I'm a US‑based SRE/DevOps engineer passionate about building resilient infrast
 
 - 🛠 **Current focus:** Kubernetes, CI/CD, Terraform, Observability
 - 🧠 **Learning:** Snowflake, Platform Engineering, AI/ML
-- 🌍 **Location:** Ashburn, VA (Eastern Time)
 - ✉️ **Reach out:** [LinkedIn](https://www.linkedin.com/in/kanishksingh01) · [GitHub](https://github.com/kanishksingh01)
 
 ## 🔧 Tech Stack
