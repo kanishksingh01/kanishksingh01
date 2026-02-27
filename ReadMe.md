@@ -25,28 +25,11 @@ Here are some of the tools and technologies I work with:
 
 ## Pinned Projects
 
-    | Repository | Highlights |
-    |---|---|
-    | [local‑clusters](https://github.com/kanishksingh01/local-clusters) | k3d lab, Octopus Deploy, WireGuard |
-    | [Advanced‑Data‑Analytics‑using‑Python‑ML](https://github.com/kanishksingh01/Advanced-Data-Analytics-using-Python-ML) | Data analysis, machine learning |
-    | [streamlit‑ml‑observability](https://github.com/kanishksingh01/streamlit-ml-observability) | ML observability, Streamlit app |
-    | [discord-clickup-integration](https://github.com/kanishksingh01/discord-clickup-integration) | Discord‑ClickUp‑GitHub integration guide and custom bot |
-    | [project_spider](https://github.com/kanishksingh01/project_spider) | Declarative Kubernetes cluster lifecycle tool using CAPI, GitOps, Terraform, and Karpenter |
-
-    ##  Featured Project: project_spider
-
-    **[project_spider](https://github.com/kanishksingh01/project_spider)** is a platform engineering initiative focused on end-to-end Kubernetes cluster lifecycle automation.
-
-    **What it includes:**
-    -  Declarative cluster provisioning and lifecycle management with Cluster API (CAPI)
-    -  GitOps workflows for repeatable, auditable environment operations
-    -  Terraform-driven infrastructure provisioning for cloud resources
-    -  Karpenter-powered autoscaling for efficient compute usage
-
-    **Why it matters:**
-    -  Helps standardize cluster creation and operations across environments
-    -  Reduces manual intervention through automation-first workflows
-    -  Improves reliability, scalability, and operational consistency
+- **[local-clusters](https://github.com/kanishksingh01/local-clusters)** — k3d lab, Octopus Deploy, WireGuard
+- **[Advanced-Data-Analytics-using-Python-ML](https://github.com/kanishksingh01/Advanced-Data-Analytics-using-Python-ML)** — data analysis and machine learning workflows
+- **[streamlit-ml-observability](https://github.com/kanishksingh01/streamlit-ml-observability)** — ML observability dashboard built with Streamlit
+- **[discord-clickup-integration](https://github.com/kanishksingh01/discord-clickup-integration)** — Discord-ClickUp-GitHub integration guide and custom bot
+- **[project_spider](https://github.com/kanishksingh01/project_spider)** — declarative Kubernetes cluster lifecycle automation with CAPI, GitOps, Terraform, and Karpenter
 
 ## Featured Project: project_spider
 
