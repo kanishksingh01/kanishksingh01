@@ -1,62 +1,69 @@
-# Hi there, I'm Kanishk (Kenny)
+<div align="center">
 
-> **Site Reliability Engineer · DevOps · Cloud**
+# ✨ Kanishk Singh · Cloud Reliability Engineer
 
-I'm a US‑based SRE/DevOps engineer passionate about building resilient infrastructure and automating everything. I enjoy working with Kubernetes, IaC, and CI/CD pipelines to deliver reliable services. Outside of work, I'm always tinkering with new tools, exploring cloud platforms, and sharing my learnings.
+### I design calm systems for chaotic traffic.
 
-## About me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanishk%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishksingh01)
+[![GitHub](https://img.shields.io/badge/GitHub-@kanishksingh01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanishksingh01)
 
-- **Current focus:** Kubernetes, CI/CD, Terraform, Observability
-- **Learning:** Snowflake, Platform Engineering, AI/ML
-- ✉️ **Reach out:** [LinkedIn](https://www.linkedin.com/in/kanishksingh01) · [GitHub](https://github.com/kanishksingh01)
+</div>
 
-## Tech Stack
+---
 
-Here are some of the tools and technologies I work with:
+## 🧭 My Role
 
-| Platform | Tools & Frameworks |
+I'm a **Site Reliability Engineer / DevOps Engineer** focused on building secure, observable, and self-healing platforms.
+
+- ⚙️ **Core work:** Kubernetes operations, CI/CD architecture, and cloud automation
+- 🏗️ **Platform mindset:** reusable golden paths, policy-driven deployments, and scalable developer workflows
+- 📈 **Reliability goals:** lower MTTR, improve deployment confidence, and automate repetitive operations
+
+---
+
+## 🚀 Recent Project Highlights
+
+- **project_spider** — Declarative Kubernetes cluster lifecycle automation with CAPI, GitOps, Terraform, and Karpenter.
+- **local-clusters** — Reproducible local platform labs with k3d, Octopus Deploy, and secure networking.
+- **streamlit-ml-observability** — Lightweight observability dashboard for ML workflows.
+
+---
+
+## 🔄 Recently Updated Public Repositories
+
+> This section updates automatically via GitHub Actions and GitHub's public API.
+
+<!--START_SECTION:recent_repos-->
+- No recent public repository activity found.
+<!--END_SECTION:recent_repos-->
+
+---
+
+## 🛠️ Stack I Use in Production-Like Environments
+
+| Domain | Tools |
 |---|---|
-| **Cloud** | AWS · GCP · Azure |
-| **Containerization** | Docker · Kubernetes · k3d |
-| **IaC** | Terraform · Ansible |
-| **CI/CD** | GitHub Actions · Jenkins |
-| **Monitoring** | Prometheus · Grafana |
-| **Languages** | Python · Bash · Go |
+| Cloud | AWS · GCP · Azure |
+| Containers | Docker · Kubernetes · k3d |
+| IaC | Terraform · Ansible |
+| CI/CD | GitHub Actions · Jenkins |
+| Observability | Prometheus · Grafana |
+| Scripting & Dev | Python · Bash · Go |
 
-## Pinned Projects
+---
 
-- **[local-clusters](https://github.com/kanishksingh01/local-clusters)** — k3d lab, Octopus Deploy, WireGuard
-- **[Advanced-Data-Analytics-using-Python-ML](https://github.com/kanishksingh01/Advanced-Data-Analytics-using-Python-ML)** — data analysis and machine learning workflows
-- **[streamlit-ml-observability](https://github.com/kanishksingh01/streamlit-ml-observability)** — ML observability dashboard built with Streamlit
-- **[discord-clickup-integration](https://github.com/kanishksingh01/discord-clickup-integration)** — Discord-ClickUp-GitHub integration guide and custom bot
-- **[project_spider](https://github.com/kanishksingh01/project_spider)** — declarative Kubernetes cluster lifecycle automation with CAPI, GitOps, Terraform, and Karpenter
+## 📊 GitHub Snapshot
 
-## Featured Project: project_spider
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishksingh01&show_icons=true&count_private=true&hide_border=true&title_color=7dd3fc&icon_color=38bdf8&text_color=e2e8f0&bg_color=0d1117" alt="Kanishk's GitHub stats" />
+</p>
 
-**[project_spider](https://github.com/kanishksingh01/project_spider)** is a platform engineering initiative focused on end-to-end Kubernetes cluster lifecycle automation.
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishksingh01&hide_border=true&background=0d1117&stroke=e2e8f0&ring=38bdf8&fire=38bdf8&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=e2e8f0&dates=94a3b8" alt="Kanishk's GitHub streak" />
+</p>
 
-**What it includes:**
-- Declarative cluster provisioning and lifecycle management with Cluster API (CAPI)
-- GitOps workflows for repeatable, auditable environment operations
-- Terraform-driven infrastructure provisioning for cloud resources
-- Karpenter-powered autoscaling for efficient compute usage
+---
 
-**Why it matters:**
-- Helps standardize cluster creation and operations across environments
-- Reduces manual intervention through automation-first workflows
-- Improves reliability, scalability, and operational consistency
+## 🤝 Let's Build Reliable Things
 
-## GitHub Stats
-
-<a href="https://github.com/kanishksingh01">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kanishksingh01&show_icons=true&count_private=true&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&bg_color=0D1117" alt="Kanishk's GitHub stats"/>
-</a>
-<a href="https://github.com/kanishksingh01">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishksingh01&hide_border=true&stroke=ffffff&background=0D1117&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&fire=0891b2&ring=0891b2" alt="Kanishk's GitHub streak"/>
-</a>
-
-<br clear="both"/>
-
-## Get in Touch
-
-I'm always open to discussing new projects, collaborations, or just geeking out about tech. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kanishksingh01) or drop me a message on GitHub!
+If you're building cloud-native systems, automation platforms, or reliability-heavy products, I'd love to connect.
