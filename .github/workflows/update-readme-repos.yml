@@ -1,0 +1,33 @@
+name: Update README Recent Repos
+
+on:
+  schedule:
+    - cron: "23 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Update recent repos section
+        env:
+          GITHUB_USERNAME: kanishksingh01
+          MAX_REPOS: "6"
+        run: python scripts/update_recent_repos.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(readme): refresh recently updated public repos"
+          file_pattern: ReadMe.md
