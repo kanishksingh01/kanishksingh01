@@ -34,12 +34,12 @@ I'm a **Site Reliability Engineer / DevOps Engineer** focused on building secure
 > This section updates automatically via GitHub Actions and GitHub's public API.
 
 <!--START_SECTION:recent_repos-->
+- **[iac-generator](https://github.com/kanishksingh01/iac-generator)** — No description provided. _(updated: 2026-04-30 UTC)_
+- **[ai-portfolio-site](https://github.com/kanishksingh01/ai-portfolio-site)** — No description provided. _(updated: 2026-04-30 UTC)_
 - **[claude-skills-dashboard](https://github.com/kanishksingh01/claude-skills-dashboard)** — Rank Claude Code skills from GitHub by usefulness and 90-day star momentum. Week 2 of a 10-week AI series. _(updated: 2026-04-28 UTC)_
-- **[ai-portfolio-site](https://github.com/kanishksingh01/ai-portfolio-site)** — No description provided. _(updated: 2026-04-28 UTC)_
 - **[ai-data-dashboard](https://github.com/kanishksingh01/ai-data-dashboard)** — No description provided. _(updated: 2026-04-28 UTC)_
 - **[cybersecurity-scanner](https://github.com/kanishksingh01/cybersecurity-scanner)** — Web security scanner — HTTP headers, SSL/TLS, DNS analysis with letter grading _(updated: 2026-04-21 UTC)_
 - **[project_spider](https://github.com/kanishksingh01/project_spider)** — No description provided. _(updated: 2026-02-27 UTC)_
-- **[nextra-githubactions](https://github.com/kanishksingh01/nextra-githubactions)** — No description provided. _(updated: 2025-12-18 UTC)_
 <!--END_SECTION:recent_repos-->
 
 ---
