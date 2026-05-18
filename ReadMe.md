@@ -34,12 +34,12 @@ I'm a **Site Reliability Engineer / DevOps Engineer** focused on building secure
 > This section updates automatically via GitHub Actions and GitHub's public API.
 
 <!--START_SECTION:recent_repos-->
-- **[tradeprompt](https://github.com/kanishksingh01/tradeprompt)** — AI-powered trading breakdowns, options picks, and earnings analysis _(updated: 2026-05-14 UTC)_
+- **[tradeprompt](https://github.com/kanishksingh01/tradeprompt)** — AI-powered trading breakdowns, options picks, and earnings analysis _(updated: 2026-05-18 UTC)_
+- **[postmortem-gen](https://github.com/kanishksingh01/postmortem-gen)** — AI-powered incident postmortem generator for SRE teams. Streaming Markdown output with RCA and action items. Powered by Groq. _(updated: 2026-05-18 UTC)_
+- **[multi-model-arena](https://github.com/kanishksingh01/multi-model-arena)** — Side-by-side AI model comparison: Claude vs Gemini vs GPT-4o with streaming responses and voting. Built with Next.js. _(updated: 2026-05-18 UTC)_
+- **[iac-gen-cli](https://github.com/kanishksingh01/iac-gen-cli)** — npm CLI: natural language → Terraform HCL or Ansible playbooks. Powered by Groq. _(updated: 2026-05-18 UTC)_
+- **[changescribe](https://github.com/kanishksingh01/changescribe)** — AI-powered changelog, README, and wiki generator from git commits. Powered by Groq. _(updated: 2026-05-18 UTC)_
 - **[bash-script-gen](https://github.com/kanishksingh01/bash-script-gen)** — No description provided. _(updated: 2026-05-06 UTC)_
-- **[ai-portfolio-site](https://github.com/kanishksingh01/ai-portfolio-site)** — No description provided. _(updated: 2026-05-06 UTC)_
-- **[ai-data-dashboard](https://github.com/kanishksingh01/ai-data-dashboard)** — No description provided. _(updated: 2026-05-06 UTC)_
-- **[iac-generator](https://github.com/kanishksingh01/iac-generator)** — No description provided. _(updated: 2026-04-30 UTC)_
-- **[claude-skills-dashboard](https://github.com/kanishksingh01/claude-skills-dashboard)** — Rank Claude Code skills from GitHub by usefulness and 90-day star momentum. Week 2 of a 10-week AI series. _(updated: 2026-04-28 UTC)_
 <!--END_SECTION:recent_repos-->
 
 ---
