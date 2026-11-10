@@ -4,7 +4,6 @@
 
 ### I design calm systems for chaotic traffic.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanishk%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishksingh01)
 [![GitHub](https://img.shields.io/badge/GitHub-@kanishksingh01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanishksingh01)
 
 </div>
