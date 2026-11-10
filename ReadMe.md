@@ -4,8 +4,6 @@
 
 ### I design calm systems for chaotic traffic.
 
-[![GitHub](https://img.shields.io/badge/GitHub-@kanishksingh01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanishksingh01)
-
 </div>
 
 ---
