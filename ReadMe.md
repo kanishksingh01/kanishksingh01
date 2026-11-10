@@ -43,35 +43,24 @@ I'm a **Site Reliability Engineer / DevOps Engineer** focused on building secure
 
 ---
 
-## 🛠️ Stack I Use in Production-Like Environments
+## 🛠️ Technology Stack
 
-| Domain | Tools |
-|---|---|
-| Cloud | AWS · GCP · Azure |
-| Containers | Docker · Kubernetes · k3d |
-| IaC | Terraform · Ansible |
-| CI/CD | GitHub Actions · Jenkins |
-| Observability | Prometheus · Grafana |
-| Scripting & Dev | Python · Bash · Go |
-
----
-
-## 🏗️ Technologies I Work With
-
-My SRE and DevOps work spans Kubernetes platforms, AWS infrastructure, GitOps, observability, and secure workload identity.
+Technologies I use across my SRE and DevOps work, projects, and platform labs.
 
 | Area | Technologies |
 |---|---|
-| Kubernetes & Compute | Kubernetes · kOps · Karpenter · Cluster Autoscaler · Docker · containerd · Linux |
+| Cloud | AWS · GCP · Azure |
+| Kubernetes & Compute | Kubernetes · kOps · Karpenter · Cluster Autoscaler · Docker · containerd · k3d · Linux |
 | AWS Infrastructure | EC2 · S3 · IAM · KMS · CloudWatch · Application Load Balancer (ALB) · Network Load Balancer (NLB) |
 | Infrastructure as Code | Terraform · Ansible |
-| Delivery & GitOps | GitLab CI/CD · Jenkins · Argo CD · Helm · Git |
+| Delivery & GitOps | GitHub Actions · GitLab CI/CD · Jenkins · Argo CD · Helm · Git |
 | Networking & Ingress | Cilium · Traefik · AWS Load Balancer Controller |
 | DNS & Certificates | CoreDNS · NodeLocal DNSCache · ExternalDNS · cert-manager |
 | Secrets Management | HashiCorp Vault · Vault Secrets Operator |
 | Identity & Access | IAM Roles for Service Accounts (IRSA) · OIDC · Dex · LDAP · Microsoft Entra ID · Kubernetes RBAC |
 | Observability | Prometheus · Grafana · Loki · Splunk OpenTelemetry Collector |
-| Automation & AI | Python · Bash · Amazon Bedrock · Merge request review automation |
+| Scripting & Development | Python · Bash · Go |
+| AI & Automation | Amazon Bedrock · Merge request review automation |
 | Platform Integrations | Dremio · Dagster · PostgreSQL |
 
 ---
