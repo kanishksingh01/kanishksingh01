@@ -31,12 +31,7 @@ I'm a **Site Reliability Engineer / DevOps Engineer** focused on building secure
 > This section updates automatically via GitHub Actions and GitHub's public API.
 
 <!--START_SECTION:recent_repos-->
-- **[inferenceshield](https://github.com/kanishksingh01/inferenceshield)** — Inference reliability portfolio project. Independent project; not affiliated with Anthropic. _(updated: 2026-11-09 UTC)_
-- **[zonerescue](https://github.com/kanishksingh01/zonerescue)** — Cloud zone resilience portfolio project focused on Google Cloud. Independent project. _(updated: 2026-11-09 UTC)_
-- **[kubemedic](https://github.com/kanishksingh01/kubemedic)** — Kubernetes reliability portfolio project focused on AWS. Independent project. _(updated: 2026-11-09 UTC)_
-- **[infraguard](https://github.com/kanishksingh01/infraguard)** — Cloud infrastructure reliability portfolio project. Independent project; not affiliated with OpenAI. _(updated: 2026-11-09 UTC)_
-- **[cloud-engineer-portfolio](https://github.com/kanishksingh01/cloud-engineer-portfolio)** — AWS DevOps & Cloud Engineering project portfolio — architecture, writeups, and learnings _(updated: 2026-06-22 UTC)_
-- **[postmortem-gen](https://github.com/kanishksingh01/postmortem-gen)** — AI-powered incident postmortem generator for SRE teams. Streaming Markdown output with RCA and action items. Powered by Groq. _(updated: 2026-05-18 UTC)_
+- No recent public repository activity found.
 <!--END_SECTION:recent_repos-->
 
 ---
